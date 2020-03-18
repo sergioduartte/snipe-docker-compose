@@ -1,5 +1,5 @@
 # snipe-it with docker-compose
-**Atention!** This is **NOT** a oficial branch of [**Snipe-it**](https://snipeitapp.com/). This is a simple deployment with docker-compose and some configs thats worked for me.
+**Atention!** This is **NOT** a oficial branch of [**Snipe-it**](https://snipeitapp.com/). This is a simple deployment with docker-compose and some configs that worked for me.
 
 ## Building the service
 
